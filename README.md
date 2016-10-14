@@ -9,14 +9,24 @@
 
  * [Enunciado] (https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicaiaas.html)
 
+<<<<<<< HEAD
 **Repositorio GitHuB donde se realizó la práctica**
 * [Heoku](https://dashboard.heroku.com/pipelines/9b1769af-da94-40eb-8471-02c9e5d27046)
 
+=======
+>>>>>>> lily
  **Repositorio GitHuB donde se realizó la práctica**
 
  * [Organización](https://github.com/ULL-ESIT-SYTW-1617/practica-despliegues-en-iaas-y-heroku-merquililycony.git)
 
+<<<<<<< HEAD
 
+=======
+**Enlace al iaas**
+
+ * [iaas](http://10.6.128.168:8080/)
+ 
+>>>>>>> lily
  **Página de los autores**
 
  * [Constanza](http://alu0100673647.github.io)
